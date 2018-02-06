@@ -1,4 +1,4 @@
-# ![logo](copyEsIndex.ico)欢迎使用 copyEsIndex
+# ![logo](copyEsIndex.png)欢迎使用 copyEsIndex
 
 ------
 
