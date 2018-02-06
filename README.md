@@ -1,4 +1,4 @@
-# ![logo](logo.png)欢迎使用 copyEsIndex
+# ![logo](logo.ico)欢迎使用 copyEsIndex
 
 ------
 
@@ -27,7 +27,7 @@
 
 ## 二、下载可执行文件运行
 
-1. 下载地址：
+1. 下载地址:https://github.com/DilemmaVi/copyEsIndex/files/1697900/copyEsIndex.zip
 2. 编辑配置文件 config.ini
 3. 运行copyEsIndex.exe
 
